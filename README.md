@@ -3,5 +3,5 @@
 1. Встановіть PHP 8.1.   
 2. Скачайте репозиторій або відкрийте папку з файлами.   
 3. У терміналі виконайте команду:
-php -S localhost:8000
-Відкрийте у браузері: http://localhost:8000/index.php ,http://localhost:8000/index.html
+# php -S localhost:8000
+# Відкрийте у браузері: http://localhost:8000/index.php ,http://localhost:8000/index.html
